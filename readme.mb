@@ -1,7 +1,8 @@
 1.ให้ติดตั้ง apache2 คำสั่ง sudo apt install apache2
 2.ให้ติดตั้ง git คำสั่ง sudo apt install git
-3.สร้างไฟล์เพื่อเก็บ git ที่จะ clone
-4.ใช้คำสั่งcd เข้าไปในไฟล์ที่สร้างไว้
-5.ใช้คำสั่งclone file -> git clone https://github.com/65111994/CE314_ID1994  วิธีเอาลิ้งก์ต้องทำให้เป็น public ก่อน
-6.ใช้คำสั่ง ls เพื่อเช็ค file
-7.วิธีเรียกดู ไฟล์ โดยใช้คำสั่ง  cat index.html
+3.ใช้คำสั่ง git init ทำให้รองรับ repository
+4.สร้างไฟล์เพื่อเก็บ git ที่จะ clone
+5.ใช้คำสั่ง cd เข้าไปในไฟล์ที่สร้างไว้
+6.ใช้คำสั่ง clone file -> git clone https://github.com/65111994/CE314_ID1994  ถ้าต้องการลิ้งก์ต้องทำให้เป็น public ก่อน
+7.ใช้คำสั่ง ls เพื่อเช็ค file
+8.วิธีเรียกดู ไฟล์ โดยใช้คำสั่ง  cat index.html
